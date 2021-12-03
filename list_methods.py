@@ -1,4 +1,10 @@
 # lst1 = [8,1,1,4,4,12]
+# values = 4
+# lst1.remove(values)
+# print(lst1)
+# x = lambda a,b:a*b
+# print(x(5,5))# x = lambda a,b:a/b
+# print(int(x(6,2)))
 lst = [3,4,2,7,25]
 lst1 = str(lst)
 print(type(lst))
